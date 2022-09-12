@@ -9,4 +9,3 @@ function evenOrOdd(input) {
     }
 
 }
-evenOrOdd(["3"]);
